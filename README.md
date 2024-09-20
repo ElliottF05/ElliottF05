@@ -3,6 +3,12 @@
 ## About Me
 I'm a second-year Computer Science student at Georgia Tech whose interests span **computer graphics**, **high-performance computing**, and **full-stack development**. I'm passionate about applying my skills through projects and learning new technologies! 🚀
 
+### 🛠️ Languages & Frameworks
+- C, C++, Java, Python, JavaScript, TypeScript, SQL, React, HTML/CSS, Android, CMake
+- Git/GitHub, Unix/Linux, PostgreSQL, Supabase, Firebase
+- Data Structures & Algorithms, Object-Oriented Programming, Computer Graphics, Software Design, Linear Algebra, Discrete Math
+
+
 ### 🔑 Key Projects
 
 #### [🌐 Web-Based 3D Graphics Renderer](https://github.com/ElliottF05/3D-Graphics) ([Interactive Demo](https://elliottf05.github.io/3D-Graphics/))
