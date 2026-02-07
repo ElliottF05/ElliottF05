@@ -8,6 +8,3 @@ Check out my [published research](https://github.com/AlexanderHYang/LitForager) 
 
 **Want to chat?**  
 Reach out on [LinkedIn](https://linkedin.com/in/elliottfaa/) or at [elliotthfaa@gmail.com](mailto:elliotthfaa@gmail.com)! 
-
-**Leaving already?** Take a joke with you!  
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=onedark&bgColor=%23FFFFFF00)
